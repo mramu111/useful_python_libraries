@@ -1,0 +1,3 @@
+capy,impacket,requests,BeautifulSoup,Keyczar,pefile,yara
+pika,nose,zeromq(pzmq),unittest,bottle,flask,djagno,zope,
+abc,sqlalchemy,
