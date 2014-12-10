@@ -26,6 +26,8 @@ Routes>=1.12.3,!=2.0
 anyjson>=0.3.3
 argparse
 eventlet>=0.15.2
+pkgutil
+
 
 
 pbr>=0.6,!=0.7,<1.0
